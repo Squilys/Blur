@@ -10,7 +10,7 @@
             "uniforms": [
                 {
                     "name": "BlurDir",
-                    "values": [ 1.0, 0.0 ]
+                    "values": [ 0.0, 0.0 ]
                 },
                 {
                     "name": "Radius",
@@ -25,7 +25,7 @@
             "uniforms": [
                 {
                     "name": "BlurDir",
-                    "values": [ 0.0, 1.0 ]
+                    "values": [ 0.0, 0.0 ]
                 },
                 {
                     "name": "Radius",
@@ -40,7 +40,7 @@
             "uniforms": [
                 {
                     "name": "BlurDir",
-                    "values": [ 1.0, 0.0 ]
+                    "values": [ 0.0, 0.0 ]
                 },
                 {
                     "name": "Radius",
@@ -55,7 +55,7 @@
             "uniforms": [
                 {
                     "name": "BlurDir",
-                    "values": [ 0.0, 1.0 ]
+                    "values": [ 0.0, 0.0 ]
                 },
                 {
                     "name": "Radius",
